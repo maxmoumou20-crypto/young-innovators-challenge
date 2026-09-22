@@ -10,8 +10,8 @@ SHIP_NAME = "Victoria Express"
 CREW_DESCRIPTION = "Python enthusiasts learning how to code"
 
 # --- Starting resources ---
-STARTING_OXYGEN = 100
-STARTING_HULL = 100
+STARTING_OXYGEN = 10
+STARTING_HULL = 10
 
 # --- Galaxy ---
 GALAXY_SIZE = 8
